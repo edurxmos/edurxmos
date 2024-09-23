@@ -1,16 +1,20 @@
-## Hi there 👋
+### oi! eu sou o Eduardo Ramos 😁👍
 
-<!--
-**edurxmos/edurxmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardorxmos/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571996721343)
 
-Here are some ideas to get you started:
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=edurxmos&show_icons=true&theme=radical&locale=pt-br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="ht" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="ht" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img align="center" alt="ht" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="center" alt="ht" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div><br/>
+
+👋 e aí! meu nome é Eduardo, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas. apaixonado por tecnologia e sempre em busca de novos desafios, estou focado em aprimorar minhas habilidades em programação. uso este perfil no GitHub para compartilhar meus aprendizados enquanto estudo, assim posso acompanhar meu progresso ao longo do tempo. 🚀
+    
+    
+    
