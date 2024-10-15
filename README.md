@@ -14,7 +14,7 @@
   <img align="center" alt="ht" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
 
-👋 e aí! meu nome é Eduardo, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas. apaixonado por tecnologia e sempre em busca de novos desafios, estou focado em aprimorar minhas habilidades em programação. uso este perfil no GitHub para compartilhar meus aprendizados enquanto estudo, assim posso acompanhar meu progresso ao longo do tempo. 🚀
+👋 e aí! meu nome é Eduardo, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas. estou sempre em busca de novos desafios, focado em aprimorar minhas habilidades em programação. uso este perfil no GitHub para compartilhar meus aprendizados enquanto estudo, assim posso acompanhar meu progresso ao longo do tempo. 🚀
     
     
     
