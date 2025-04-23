@@ -1,9 +1,14 @@
-### E aí! Eu sou o Eduardo 👋
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=200&center=true&vCenter=true&width=500&height=100&lines=I'm+Chinmay+Sonawane;Software+Developer+%7C+Tech+Explorer;2x+Hackathon+Winner+%7C+Open+Source;Writing+about+Linux+and+FOSS;Always+Learning%2C+Always+Building;Let's+Build+Something+Cool!;%40chinmay29hub">
+</p>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e uso o GitHub como um cantinho pra guardar meus estudos e aprendizados com programação.  
-Tô sempre tentando aprender um pouco mais e dar uma evoluída nos códigos 😄
-
----
+## Github Stats &nbsp;📊
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=chinmay29hub&show_icons=true&theme=github_dark">
+</p>
+<hr>
+<br>
 
 ### 🚀 Tecnologias que estou usando:
 
