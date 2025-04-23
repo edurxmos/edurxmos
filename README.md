@@ -1,20 +1,35 @@
-### oi! eu sou o Eduardo Ramos 😁👍
+### E aí! Eu sou o Eduardo 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardorxmos/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571996721343)
+Sou estudante de Análise e Desenvolvimento de Sistemas e uso o GitHub como um cantinho pra guardar meus estudos e aprendizados com programação.  
+Tô sempre tentando aprender um pouco mais e dar uma evoluída nos códigos 😄
 
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=edurxmos&show_icons=true&theme=radical&locale=pt-br)
+---
 
-## Tecnologias que eu uso no meu dia
+### 🚀 Tecnologias que estou usando:
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="ht" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="ht" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img align="center" alt="ht" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="ht" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div><br/>
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+</div>
 
-👋 e aí! meu nome é Eduardo, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas. estou sempre em busca de novos desafios, focado em aprimorar minhas habilidades em programação. uso este perfil no GitHub para compartilhar meus aprendizados enquanto estudo, assim posso acompanhar meu progresso ao longo do tempo. 🚀
-    
-    
-    
+---
+
+### 📊 GitHub Stats
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edurxmos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurxmos&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+### 💬 Bora trocar uma ideia?
+
+- 📸 [Instagram](https://www.instagram.com/edurxmos?igsh=MXJ6ZTg0aG82dWZn&utm_source=qr)  
+- 📱 [WhatsApp](https://wa.me/5571996721343)
+
+---
+
+⚡ Fun fact: Às vezes eu procrastino, mas depois eu volto com tudo e mando ver nos códigos 😅
