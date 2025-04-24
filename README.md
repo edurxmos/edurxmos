@@ -11,7 +11,7 @@
 <hr>
 <br>
 
-## Github Stats &nbsp;📊
+## 📊 Github Stats
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=edurxmos&show_icons=true&theme=github_dark">
