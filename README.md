@@ -6,11 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=200&center=true&vCenter=true&width=500&height=100&lines=Hey%2C+I'm+Eduardo!+o/;Welcome+to+my+Github+profile📓🚀">
 </p>
 
-<p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<hr>
-<br>
-
 ## 📊 Github Stats
 <br>
 <p align='center'>
